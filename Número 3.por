@@ -22,6 +22,10 @@ programa {
 
    }
 
+    caso contrario :
+    escreva("Esse plano de trabalho é inválido")
+    retorne
+
    salFuturo = salAtual + aumento
    escreva("Com base nos dados fornecidos, seu salário futuro com o aumento será de: ")
    escreva(salFuturo)
