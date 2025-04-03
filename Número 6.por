@@ -2,8 +2,8 @@ programa {
   funcao inicio() {
    inteiro valor
    escreva("Digite um número de 0 a 12: ") 
-   leia(valentia)
-   escolha(valentia) {
+   leia(valor)
+   escolha(valor) {
 
     caso 1:
     escreva("Janeiro")
