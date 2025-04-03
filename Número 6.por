@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-   inteiro valentia
+   inteiro valor
    escreva("Digite um número de 0 a 12: ") 
    leia(valentia)
    escolha(valentia) {
