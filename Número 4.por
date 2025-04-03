@@ -2,8 +2,8 @@ programa {
   funcao inicio() {
     inteiro valor
     escreva("Digite um número de 0 a 10: ")
-    leia(valentia)
-    escolha(valentia) {
+    leia(valor)
+    escolha(valor) {
 
       caso 0:
       escreva("Zero")
