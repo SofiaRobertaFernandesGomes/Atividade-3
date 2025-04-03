@@ -31,6 +31,12 @@ programa {
       valor = 1.00
       pare
     }
+
+      valorFinal = valor * quantidade
+      escreva("Seu valor total a pagar é: ")
+      escreva(valorFinal)
+
+
       valorFinal = valor * quantidade
       escreva(valorFinal)
     }
